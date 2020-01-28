@@ -1,4 +1,4 @@
-Graphics.h kütüphanesi ile paint uygulaması yapımı
+Graphics.h kütüphanesi ile paint uygulaması yapımı.
 
 Dev C++ idesinde graphics.h kütüphanesini kullanabilmek için bazı işlemler yapmak gerekmektedir.
 
