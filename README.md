@@ -1,2 +1,1 @@
-# Paint_App
- Graphics.h kütüphanesi ile paint uygulaması yapımı
+Graphics.h kütüphanesi ile paint uygulaması yapımı
